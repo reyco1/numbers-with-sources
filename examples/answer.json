@@ -1,0 +1,17 @@
+[
+  {
+    "claim": "Example Clinic had 1240 visits in January 2026",
+    "value": 1240,
+    "source": "monthly_visits.csv:2026-01"
+  },
+  {
+    "claim": "Example Clinic no-show rate in January 2026 was 8.5 percent",
+    "value": 8.5,
+    "source": "no_show_rates.csv:2026-01"
+  },
+  {
+    "claim": "Example Clinic visits grew 20 percent over last year",
+    "value": 20,
+    "source": null
+  }
+]
